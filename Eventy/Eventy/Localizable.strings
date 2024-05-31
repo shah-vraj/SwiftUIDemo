@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  Eventy
+
+  Created by Vraj Shah on 08/06/23.
+  
+*/
+
+welcomeToOnlineEventAppTitle = "Welcome to \nOnline Event App";
+findAndBookAEventTitle = "Find And \nBook A Event";
+organizedAPremiumEventTitle = "Organized \nA Premium Event";
+welcomeToOnlineEventAppDescription = "Find the Best event near you \nwith just one of best app";
+findAndBookAEventDescription = "Find the Best event near you \nwith just one of best app";
+organizedAPremiumEventDescription = "Find the Best event near you \nwith just one of best app";
+getStarted = "Get Started";
+registerByNo = "Register by No";
+signInTitle = "Sign in";
+rememberMe = "Remember me";
+forgotPassword = "Forget password?";
+dontHaveAnAccount = "Don’t have an account?";
+signUpAttributed = "Sign Up";
+emailPlaceholder = "Email";
+passwordPlaceholder = "Password";
+signUpTitle = "Sign up";
+fullName = "Full name";
+phoneNumber = "Phone Number";
+email = "Email";
+password = "Password";
+confirmPassword = "Confirm Password";
+termsOfServiceAndPrivacyPolicy = "By creating an account you agree to \nour Terms of Service and Privacy Policy";
+alreadyHaveAnAccount = "Already have an account?";
+signInAttributed = "Sign in !";
+termsNotChecked = "Please check terms and conditions";
+userNotFound = "User not found";
+wrongPassword = "Wrong password";
+
+// User default keys
+isTutorialCompleted = "isTutorialCompleted";
+isLoggedIn = "isLoggedIn";
+rememberedEmail = "rememberedEmail";
+
+// Credentials error message
+allFieldsRequired = "All fields required";
+invalidEmailAddress = "Invalid email address";
+invalidPhoneNumber = "Invalid phone number";
+passwordNotMatching = "Password does not match";
+
+// Tabbar titles
+event = "Event";
+todo = "Todo";
+plus = "";
+explore = "Explore";
+profile = "Profile";
+
+// Home screen
+home = "Home";
+indonesiaEventTitle = "KPOP Award Indonesia";
+indonesiaEventLocation = "Town Hall Islington London";
+interested = "Interested";
+indonesiaEventDate = "25";
+indonesiaEventMonth = "Dec";
+going = "Going";
+categoryEvents = "Category Events";
+viewAllButtonTitle = "View All +";
+foodEvent = "Food Event";
+musicEvent = "Music Event";
+movieEvent = "Movie Event";
+popularOrganizer = "Popular Organizer";
+hundredPlusEvents = "100+ Event";
+spaceXTech = "Space-X Tech";
+skateboardFest = "Skateboard Fest";
+visualProjection = "Visual Projection";
+follow = "Follow";
+logout = "Logout";
+logOutAlertTitle = "Are you sure you want to logout?";
